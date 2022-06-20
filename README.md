@@ -1,3 +1,3 @@
 # test
 
-Test Github functionalitis
+Test Github functionalities
